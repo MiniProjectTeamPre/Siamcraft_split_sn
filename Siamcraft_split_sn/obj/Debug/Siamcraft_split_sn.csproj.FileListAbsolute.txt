@@ -1,0 +1,9 @@
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\Siamcraft_split_sn\Siamcraft_split_sn\bin\Debug\Siamcraft_split_sn.exe.config
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\Siamcraft_split_sn\Siamcraft_split_sn\bin\Debug\Siamcraft_split_sn.exe
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\Siamcraft_split_sn\Siamcraft_split_sn\bin\Debug\Siamcraft_split_sn.pdb
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\Siamcraft_split_sn\Siamcraft_split_sn\obj\Debug\Siamcraft_split_sn.csprojResolveAssemblyReference.cache
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\Siamcraft_split_sn\Siamcraft_split_sn\obj\Debug\Siamcraft_split_sn.Form1.resources
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\Siamcraft_split_sn\Siamcraft_split_sn\obj\Debug\Siamcraft_split_sn.Properties.Resources.resources
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\Siamcraft_split_sn\Siamcraft_split_sn\obj\Debug\Siamcraft_split_sn.csproj.GenerateResource.Cache
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\Siamcraft_split_sn\Siamcraft_split_sn\obj\Debug\Siamcraft_split_sn.exe
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\Siamcraft_split_sn\Siamcraft_split_sn\obj\Debug\Siamcraft_split_sn.pdb
